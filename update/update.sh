@@ -35,7 +35,7 @@ echo -e "$grn                updating the Tunnel please wait$rset"
 sleep 2.0
 cd $HOME
 rm -rf tunnel
-git clone https://github.com/noob-hackers/tunnel
+git clone https://github.com/ABougnar/tunnel
 clear
 echo " "
 echo -e "$grn               Tunnel has been updated check it now...$rset"
