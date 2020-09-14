@@ -1,5 +1,5 @@
-#script by noob hackers
-#subscribe our youtube channel noob hackers
+#script by Anas Bougnar
+#subscribe our youtube channel A-Bougnar
 clear
 echo " "
 if [ -e $HOME/ngrok ];
@@ -92,7 +92,7 @@ echo ""
 cd $HOME
 clear
 echo  " "
-printf "  \e[101m\e[1;77m #> Script By Noob Hackers <# \e[0m\n"
+printf "  \e[101m\e[1;77m #> Script By Anas Bougnar <# \e[0m\n"
 printf "\n"
 printf " \e[120m\e[1;33m >> Enter Port Number ✈ [ 4 digit] : \e[0m\n"
 echo " "
