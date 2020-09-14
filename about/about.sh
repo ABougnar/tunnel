@@ -12,11 +12,11 @@ echo '
 echo " "
 echo "                             About"|lolcat
 echo " "
-echo "       🙏 Hey, there I am Nakeeb (Nitro), i made this tool
+echo "       🙏 Hey, there I am Anas Bougnar, i made this tool
        to create ngrok tunnel without hotspot, so i hope guys you
                              liked it. 😘"
 echo ""
-echo "                  Our channel :- Noob Hackers"| lolcat
+echo "                  Our channel :- A-Bougnar"| lolcat
 echo " "
 sleep 8.0
 cd $HOME/tunnel
