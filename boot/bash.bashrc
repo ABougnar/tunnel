@@ -3,8 +3,8 @@ if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
 		/data/data/com.termux/files/usr/libexec/termux/command-not-found "$1"
 	}
 fi
-#script by noob hackers
-#subscribe our youtube channel noob hackers
+#script by Anas Bougnar
+#subscribe our youtube channel A-Bougnar
 clear
 echo " "
 checkngrok=$(ps aux | grep -o "ngrok" | head -n1)
@@ -24,7 +24,7 @@ fi
 echo ""
 ########
 echo  " "
-printf "  \e[101m\e[1;77m #> Script By Noob Hackers<# \e[0m\n"
+printf "  \e[101m\e[1;77m #> Script By Anas Bougnar<# \e[0m\n"
 printf "\n"
 printf " \e[120m\e[1;33m >> Enter Port Number [ 5 digit] : \e[0m\n"
 echo " "
