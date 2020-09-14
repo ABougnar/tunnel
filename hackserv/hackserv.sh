@@ -1,4 +1,4 @@
-#script by noobhackers
+#script by anas-bougnar
 clear
 printf "              \e[1;41mHACK SERVER IS ON\e[0m\n"
 echo
