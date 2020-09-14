@@ -7,14 +7,7 @@
 
 Tunnel is a bash based script which is made for ngrok users of termux from this tool in just one click you can do lot more. This tool works on both rooted Android device and Non-rooted Android device.
 
-[![Build Status](https://img.shields.io/github/stars/noob-hackers/m-wiz.svg)](https://github.com/A-Bougnar/tunnel)
-[![Build Status](https://img.shields.io/github/forks/noob-hackers/m-wiz.svg)](https://github.com/A-Bougnar/tunnel)
-[![License: MIT](https://img.shields.io/github/license/noob-hackers/m-wiz.svg)](https://github.com/A-Bougnar/tunnel)
-[![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#tunnel)
-[![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![www noob-hackers com](https://user-images.githubusercontent.com/49580304/79551648-91b2b500-80b7-11ea-8b29-8951bdc2052e.jpg)
 
 
 ### 📌 ***Tunnel is available for***:
@@ -92,10 +85,7 @@ __Remove from Boot__ :
 __Exit__ :
 - From this option you can exit from tunnel tool.
 
-## 📌 ***Screenshot*** :
-<img src="https://user-images.githubusercontent.com/49580304/79551746-b870eb80-80b7-11ea-9ab7-02a76979d5db.jpg" width="80%"></img>
-## 📌 ***Full video tutorial***:
-[![m-wiz metasploit-franework tool](https://img.youtube.com/vi/8RXVODXMsa8/0.jpg)](https://youtu.be/8RXVODXMsa8)
+
 ## 🔗 ***Check this***
 
 ### Subscribe our channel on youtube:
