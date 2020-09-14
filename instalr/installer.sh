@@ -1,5 +1,5 @@
-#script by noob hackers
-#subscribe our youtube channel noob hackers
+#script by Anas Bougnar
+#subscribe our youtube channel A-Bougnar
 clear
 echo " "
 if [ -e $HOME/ngrok ];
