@@ -1,5 +1,5 @@
-#Script By Nitro
-#Subscribe Noob Hackers Youtube Channel
+#Script By A-Bougnar
+#Subscribe A-Bougnar Youtube Channel
 #you can modify and use the code but give credits
 clear
 printf "\n"
@@ -9,9 +9,9 @@ printf "\e[1;92m              / /\/ | | | '_ \| '_ \ / _ \ |\e[0m\n"
 printf "\e[1;92m             / /  | |_| | | | | | | |  __/ |\e[0m\n"
 printf "\e[1;92m             \/    \__,_|_| |_|_| |_|\___|_| v1.1\e[0m\n"
 printf "\n"
-printf "                \e[104m\e[1;77m  >>  Script By N17R0 << \e[0m\n"
+printf "                \e[104m\e[1;77m  >>  Script By A-Bougnar << \e[0m\n"
 printf "\n"
-printf "  \e[100m\e[1;77m >>  Youtube Channel : \e[1;92m youtube.com/noobhackers \e[100m\e[1;77m << \e[0m\n"
+printf "  \e[100m\e[1;77m >>  Youtube Channel : \e[1;92m youtube.com/A-Bougnar \e[100m\e[1;77m << \e[0m\n"
 printf "\n"
 printf "  \e[101m\e[1;77m #>  Note: Turn on mobile internet to get link..! <# \e[0m\n"
 printf "\n"
