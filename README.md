@@ -16,19 +16,19 @@ Tunnel is a bash based script which is made for ngrok users of termux from this 
 
 ### 📌 ***Installation and usage guide***:
 ```
-$ apt-get update -y
+$ apt-get update 
 ```
 ```
-$ apt-get upgrade -y
+$ apt-get upgrade 
 ```
 ```
-$ pkg install python -y 
+$ pkg install python 
 ```
 ```
-$ pkg install python2 -y
+$ pkg install python2 
 ```
 ```
-$ pkg install git -y
+$ pkg install git 
 ```
 ```
 $ pip install lolcat
